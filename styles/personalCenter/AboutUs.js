@@ -1,0 +1,47 @@
+import {StyleSheet,Dimensions} from 'react-native';
+export const styles = StyleSheet.create({
+  mainAbout:{
+    flex:1,
+    backgroundColor:'#fff',
+  },
+  viewCenter:{
+    width:Dimensions.get('window').width,
+    alignItems:'center',
+  },
+  viewText:{
+    width:Dimensions.get('window').width-60,
+    marginLeft:30,
+    marginRight:30,
+  },
+  viewTextCenter:{
+    lineHeight:25,
+    textAlign:'center',
+  },
+  marginTop100:{
+    marginTop:100,
+  },
+  paddingBottom100:{
+    paddingBottom:100,
+  },
+  marginBottom100:{
+    marginBottom:100,
+  },
+  marginTop30:{
+    marginTop:20,
+  },
+  marginTop40:{
+    marginTop:30,
+  },
+  positionBottom0:{
+    position:'absolute',
+    bottom:0,
+  },
+  positionBottom10:{
+    position:'absolute',
+    bottom:10,
+    backgroundColor:'transparent',
+  },
+  marginBottom4:{
+    marginBottom:4,
+  },
+});

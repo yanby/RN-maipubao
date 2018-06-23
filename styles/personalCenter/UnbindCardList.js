@@ -1,0 +1,39 @@
+import {StyleSheet,Dimensions} from 'react-native';
+export const styles = StyleSheet.create({
+  container:{
+    flex:1,
+    backgroundColor:'#292c36',
+  },
+  checkView:{
+    marginTop:70,
+    marginRight:20,
+  },
+  imageBg:{
+    width:Dimensions.get('window').width-80,
+    marginRight:30,
+    height:150,
+    borderRadius:6,
+    paddingTop:55,
+    paddingLeft:65,
+  },
+  view:{
+    marginTop:10,
+    flexDirection:"row",
+    paddingLeft:30,
+  },
+  btnView:{
+    width:Dimensions.get('window').width,
+    height:100,
+    position:'absolute',
+    bottom:0,
+    backgroundColor:'#292c36',
+  },
+  btn:{
+    height:40,
+    backgroundColor:'#343643',
+    marginTop:10,
+    justifyContent:"center",
+    alignItems:'center',
+  },
+
+});

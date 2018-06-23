@@ -1,0 +1,66 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.youpu"
+    android:versionCode="1"
+    android:versionName="2.1.5">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.camera"/>
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <application
+      android:name=".MainApplication"
+      android:allowBackup="true"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:theme="@style/AppTheme">
+      <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+        android:windowSoftInputMode="adjustResize"
+        android:screenOrientation="portrait">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        <intent-filter>
+            <category android:name="android.intent.category.DEFAULT" />
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="youpu" />
+        </intent-filter>
+      </activity>
+      <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+      <activity
+        android:name=".wxapi.WXEntryActivity"
+        android:label="@string/app_name"
+        android:exported="true"
+      />
+      <meta-data android:value="5773c3bee0f55a2e9c00156b" android:name="UMENG_APPKEY"/>
+      <meta-data android:value="Umeng" android:name="UMENG_CHANNEL"/>
+      <!-- 测试环境 -->
+      <!-- <meta-data android:name="PUSH_APPID" android:value="QmOoUe0BMC61iDGv3MssL3"/>
+      <meta-data android:name="PUSH_APPKEY" android:value="Z0Pj5HV4qsAjuwxUaYVpMA"/>
+      <meta-data android:name="PUSH_APPSECRET" android:value="U9BW6tvUfm9dLDy0WxEb03"/> -->
+      <!-- 生产环境 -->
+      <meta-data android:name="PUSH_APPID" android:value="0tj9v0F6vk6iNu36b7aFG3"/>
+      <meta-data android:name="PUSH_APPKEY" android:value="p4s2Zf4tD7A4aQpoLj0ym8"/>
+      <meta-data android:name="PUSH_APPSECRET" android:value="fWpf8BDoFy6uXMoaU2NHZ9"/>
+
+    </application>
+
+</manifest>

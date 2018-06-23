@@ -1,0 +1,51 @@
+import {StyleSheet,Dimensions} from 'react-native';
+export const styles = StyleSheet.create({
+  mainView:{
+    flex:1,
+    backgroundColor:'#fff',
+  },
+  viewText:{
+    width:Dimensions.get('window').width-30,
+    marginLeft:15,
+    marginRight:15,
+    paddingLeft:20,
+    paddingRight:20,
+  },
+  listBtn:{
+    width:Dimensions.get('window').width-30,
+    marginLeft:15,
+    marginRight:15,
+    justifyContent:"center",
+    alignItems:'center',
+    borderRadius: 6,
+    height:40,
+    backgroundColor:'#3a8ff3',
+  },
+  positionBottom20:{
+    position:'absolute',
+    bottom:20,
+  },
+  marginTop25:{
+    marginTop:25,
+  },
+  marginTop10:{
+    marginTop:10,
+  },
+  Fullscreen:{
+    flex:1,
+    backgroundColor:"rgba(0,0,0,0.7)",
+    alignItems:"center",
+    justifyContent:"flex-end"
+  },
+  chooseView:{
+    height:45,
+    alignItems:"center",
+    justifyContent:"center",
+    backgroundColor:"#fff",
+    width:Dimensions.get('window').width
+  },
+  borderLine:{
+    borderBottomWidth:1,
+    borderColor:"#eaeaea"
+  }
+});

@@ -1,0 +1,14 @@
+rootProject.name = 'upapp'
+include ':react-native-network-info'
+project(':react-native-network-info').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-network-info/android')
+
+include ':react-native-getui'
+project(':react-native-getui').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-getui/android')
+
+include ':react-native-wechat'
+project(':react-native-wechat').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wechat/android')
+include ':react-native-smart-barcode'
+project(':react-native-smart-barcode').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-smart-barcode/android')
+include ':react-native-image-crop-picker'
+project(':react-native-image-crop-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-image-crop-picker/android')
+include ':app'

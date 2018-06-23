@@ -1,0 +1,79 @@
+import {
+  StyleSheet,Dimensions
+} from 'react-native';
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor:"#fff",
+  },
+  memberView:{
+    flexDirection:"row",
+    backgroundColor:"#fff",
+    paddingLeft:15,
+    paddingRight:15,
+    borderBottomWidth:1,
+    borderBottomColor:'#eaeaea',
+    alignItems:"center",
+    justifyContent:"center",
+  },
+  checkView:{
+    marginRight:10,
+  },
+  viewList:{
+    flex:1
+  },
+  viewTitle:{
+    position:'relative',
+    flexDirection:"row",
+    paddingTop:10,
+  },
+  viewTitleText:{
+    flex:1,
+  },
+  viewSubtitle:{
+    flexDirection:"row",
+  },
+  viewSubtitleText:{
+    flex:1,
+    marginTop:2,
+  },
+  viewText:{
+    paddingTop:5,
+    paddingBottom:5,
+  },
+  viewSubtitleIcon:{
+    marginRight:10,
+  },
+  createTime:{
+    flex:1,
+    marginBottom:10,
+  },
+  createTimeTxt:{
+    textAlign:'right',
+  },
+  viewTextText:{
+    lineHeight:22,
+  },
+  touchBtn:{
+    width:Dimensions.get('window').width-30,
+    height:40,
+    alignItems:"center",
+    justifyContent:"center",
+    backgroundColor:"#3a8ff3",
+    borderRadius:6,
+    marginLeft:15,
+    marginRight:15,
+    marginBottom:25,
+  },
+  redIcon:{
+    width:10,
+    height:10,
+    backgroundColor:'red',
+    position:'absolute',
+    right:0,
+    top:10,
+    borderRadius:5,
+  }
+
+
+})

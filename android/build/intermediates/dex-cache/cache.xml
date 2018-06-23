@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/id.zelory-compressor-2.1.0_760e08f4fa0e8e524649c04ebdf72e906a35d0c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a8c4ce0fc8dfe75cdd598521525b1727f44c4c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_3de2e87237e1b2bafdabd4b81fa27373c2fe19e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-wechat/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="213b6f2ff8a77c20ac374430a5868a2ddca2f4e1">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/upapp-react-native-wechat-unspecified_ab6b4fe47a4a07dba16bdbfa59bbbd420ad9536d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_738da30c3d82341c04438da46980a7d914e6a5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-26.0.0-alpha1_2b8f014ac97e2fda0e83b45572a06f9c93f146ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.yalantis-ucrop-2.2.0-native_4f05df49d13bf6c34ea5455e8497852877d500a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.0.1_2eac6b1bbdc9f6cf46e5d13305c0ac8d9679e39b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7dc3a0b91bc22ea925680cbc7f6615fe00c60534">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/upapp-react-native-image-crop-picker-unspecified_1ff6a113418fdeef412dd48ad8d106cdfc630190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-26.0.0-alpha1_15fb17bf3e0c2d26e86fc7b5b953105c689b2a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-smart-barcode/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3c525acd94aa7cb69d43f7e93b61e60c2734d018">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/upapp-react-native-smart-barcode-unspecified_e452dda46f82726f169d1ad98bc75a518a328929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-26.0.0-alpha1_5e1e0cc8eeb0e2ae718013f404d7e61b2039aece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.0.1_513920b5a80667d5903494b1f204e73cbe7d921e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.0_db6f16e678bfc6c552a41e3a22bdaa7d50506d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_90e21853d570dca8a63d89b5c0ecb4b6eb0d46e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_8d5f038a0177e9621d23e508fd6eabc80b33585e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-getui/unspecified/jars/libs/GetuiSDK4.3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2fe12e551a4e03795f6f0856d8650a9fafeb9f9">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/GetuiSDK4.3.0.0_15f88a6b62f55ff6e93830493c23c7e33b6c71c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.0.1_ee792663c87f4efc55dd054c64e5802370a1e159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_a1e7a6d68f68a119eb8b4f1d94453d7d78d2d897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-26.0.0-alpha1_56577f71ef71a824f98bba7f5aa8944ba2d7593c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.0.1_2b19eb671025ec43e035bdf3d692af3ecbcef014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_c549e41cbd92fe7071b4e426008af2fc5259286c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-26.0.0-alpha1_f4a8ddf6fb2163c1c2e8ea3ec6682e701ad9f2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-26.0.0-alpha1_6555fa7a55f3be3d69de4d7ca9296c16c350a3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_cfeda3f8c282aaf166ed00e43dab142e55a5bf51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.0_9a529fce139a1a9ebb4fcb10cb3f12aa458cce48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/core-3.2.1_f988cf76cf91a9e587b5d77897de13694b81060e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_a8073ef5eae8e55ec501f827dee5a83647657aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.0_70a2f4a16e3179f8464795c73787285b917d4581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/reactive-streams-1.0.0_930e37397408090f480b97d117dcb07bed5d4587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/rxjava-2.1.0_5648edace422ebe96388b506a8947f760185285a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-wechat/unspecified/jars/libs/libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/libammsdk_a27d2eaaa38b298f0616d709008f8ebf2ae0a750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-network-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6618a744a8caf3ed3c52cc0df18083b477dbcc49">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/upapp-react-native-network-info-unspecified_bd6e129534a2e5f3585cc44420e1d6e18ce5625d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_6aa4c88fa05756203549fc1964e94261ff3980ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_7327055b89e717733fca5ac8643a4779105ff64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/upapp/react-native-getui/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cd3bd7eade2b052b25ef9777f2d82ca5edae5347">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/upapp-react-native-getui-unspecified_b37efa2e59e56f5cf671d4f61811dd10d1e852d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.0.1_b7802dd23dde2a51d70d61ac83f35ef7184b2310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.1.4/c1d30c2bbdce435b775cadca57df2098044a0f5e/analytics-6.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/analytics-6.1.4_3647cfe6b574619e7dd971bba6a89426845e9411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/javax.inject-1_431f5ab304cb5e6680fa8d5f20a8bfda7ba10558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.44.3_bef75859fe6346ac9858badf9a65b82e54f80996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/youke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/youke/Documents/up-newapp/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_0d6d9b6388d5dd82ff7f5c77eac3210fc8836a75.jar" />
+    </item>
+
+</items>

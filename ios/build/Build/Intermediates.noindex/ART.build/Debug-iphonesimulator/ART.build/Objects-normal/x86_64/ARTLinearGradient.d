@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/youke/Documents/up-newapp/node_modules/react-native/Libraries/ART/Brushes/ARTLinearGradient.m \
+  /Users/youke/Documents/up-newapp/node_modules/react-native/Libraries/ART/Brushes/ARTLinearGradient.h \
+  /Users/youke/Documents/up-newapp/node_modules/react-native/Libraries/ART/Brushes/ARTBrush.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/youke/Documents/up-newapp/node_modules/react-native/Libraries/ART/RCTConvert+ART.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/youke/Documents/up-newapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/youke/Documents/up-newapp/node_modules/react-native/Libraries/ART/ARTCGFloatArray.h \
+  /Users/youke/Documents/up-newapp/node_modules/react-native/Libraries/ART/ARTTextFrame.h

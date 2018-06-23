@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/debug/raw/beep.wav",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/upapp/react-native-smart-barcode/unspecified/res/raw/beep.wav"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/debug/raw/beep.wav",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/upapp/react-native-smart-barcode/unspecified/res/raw/beep.wav"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/debug/raw/beep.wav",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/upapp/react-native-smart-barcode/unspecified/res/raw/beep.wav"
+    }
+]

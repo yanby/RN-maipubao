@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

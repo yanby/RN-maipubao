@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.youpu"
+    android:versionCode="57"
+    android:versionName="2.3.6" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_TASKS" /> <!-- 支持iBeancon 需要蓝牙权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 自定义权限 -->
+    <uses-permission android:name="getui.permission.GetuiService.com.youpu" />
+
+    <permission
+        android:name="getui.permission.GetuiService.com.youpu"
+        android:protectionLevel="normal" >
+    </permission>
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.youpu.MainApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.youpu.MainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="youpu" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+        <activity
+            android:name="com.youpu.wxapi.WXEntryActivity"
+            android:exported="true"
+            android:label="@string/app_name" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5773c3bee0f55a2e9c00156b" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Umeng" />
+        <!-- 测试环境 -->
+        <!--
+      <meta-data android:name="PUSH_APPID" android:value="QmOoUe0BMC61iDGv3MssL3"/>
+      <meta-data android:name="PUSH_APPKEY" android:value="Z0Pj5HV4qsAjuwxUaYVpMA"/>
+      <meta-data android:name="PUSH_APPSECRET" android:value="U9BW6tvUfm9dLDy0WxEb03"/>
+        -->
+        <!-- 生产环境 -->
+        <meta-data
+            android:name="PUSH_APPID"
+            android:value="0tj9v0F6vk6iNu36b7aFG3" />
+        <meta-data
+            android:name="PUSH_APPKEY"
+            android:value="p4s2Zf4tD7A4aQpoLj0ym8" />
+        <meta-data
+            android:name="PUSH_APPSECRET"
+            android:value="fWpf8BDoFy6uXMoaU2NHZ9" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.youpu.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> <!-- 配置SDK核心服务 -->
+        <service
+            android:name="com.igexin.sdk.PushService"
+            android:exported="true"
+            android:label="NotificationCenter"
+            android:process=":pushservice" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.service.message" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.igexin.sdk.PushReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="com.igexin.sdk.action.refreshls" />
+                <!-- 以下三项为可选的action声明，可大大提高service存活率和消息到达速度 -->
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.igexin.sdk.PushActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.igexin.sdk.GActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.getui.reactnativegetui.PushService"
+            android:exported="true"
+            android:label="PushService"
+            android:process=":pushservice" />
+        <service android:name="com.getui.reactnativegetui.PushIntentService" />
+    </application>
+
+</manifest>

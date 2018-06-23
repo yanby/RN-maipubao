@@ -1,0 +1,32 @@
+import {StyleSheet,Dimensions} from 'react-native';
+export const styles = StyleSheet.create({
+  mainView:{
+    flex:1,
+    backgroundColor:'#fff',
+  },
+  titleView:{
+    marginTop:10,
+    marginBottom:10,
+    marginLeft:15,
+    marginRight:15,
+  },
+  authorTime:{
+    flexDirection:"row",
+    marginLeft:15,
+    marginRight:15,
+  },
+  viewLeftText:{
+    flex:1,
+    textAlign:'left',
+    marginLeft:10,
+    marginTop:2,
+  },
+  bodyText:{
+    marginLeft:15,
+    marginRight:15,
+    marginTop:10,
+  },
+  bodyTextTxt:{
+    lineHeight:20,
+  },
+});

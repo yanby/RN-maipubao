@@ -1,0 +1,65 @@
+import {
+  StyleSheet,Dimensions
+} from 'react-native';
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+  },
+  navDefault:{
+    width:Dimensions.get('window').width,
+    height:64,
+    backgroundColor:'#f9f9f9',
+    flexDirection:"row",
+    paddingTop:20,
+    borderBottomWidth:1,
+    borderBottomColor:"#eaeaea"
+  },
+  navLeft:{
+    width:60,
+    height:44,
+    backgroundColor:'transparent',
+    justifyContent:"center",
+    alignItems:'flex-start',
+    paddingLeft:15,
+  },
+  navCenter:{
+    width:Dimensions.get('window').width-120,
+    height:44,
+    backgroundColor:'transparent',
+    justifyContent:"center",
+    alignItems:'center',
+  },
+  navRight:{
+    width:60,
+    height:44,
+    backgroundColor:'transparent',
+    justifyContent:"center",
+    alignItems:'flex-end',
+    paddingRight:15,
+  },
+  imgView:{
+    alignItems:"center",
+    justifyContent:"flex-end",
+    paddingBottom:40,
+  },
+  subView:{
+    paddingLeft:46,
+    paddingRight:46,
+  },
+  subInput:{
+    height:40,
+    backgroundColor:"#fae49b",
+    borderRadius:6,
+    marginBottom:20,
+    width:Dimensions.get('window').width-92,
+    paddingLeft:10,
+  },
+  subTouch:{
+    borderRadius:6,
+    backgroundColor:"#ed5f00",
+    alignItems:"center",
+    justifyContent:"center",
+    height:40,
+    width:Dimensions.get('window').width-92
+  }
+})

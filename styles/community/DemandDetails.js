@@ -1,0 +1,50 @@
+import {StyleSheet,Dimensions} from 'react-native';
+export const styles = StyleSheet.create({
+  main:{
+    flex:1,
+    backgroundColor:'#f8f8fa',
+  },
+  mainView:{
+    height:300,
+    backgroundColor:'#fff',
+  },
+  titleView:{
+    marginTop:10,
+    marginBottom:10,
+    marginLeft:15,
+    marginRight:15,
+  },
+  authorTime:{
+    flexDirection:"row",
+    marginLeft:15,
+    marginRight:15,
+    marginBottom:15,
+    marginTop:20,
+  },
+  viewLeftText:{
+    flex:1,
+    textAlign:'left',
+    marginLeft:5,
+  },
+  bodyText:{
+    marginLeft:15,
+    marginRight:15,
+  },
+  bodyTextTxt:{
+    lineHeight:20,
+  },
+  listBtn:{
+    width:Dimensions.get('window').width-30,
+    marginLeft:15,
+    marginRight:15,
+    justifyContent:"center",
+    alignItems:'center',
+    borderRadius: 6,
+    height:40,
+    backgroundColor:'#3a8ff3',
+  },
+  positionBottom20:{
+    position:'absolute',
+    bottom:20,
+  },
+});

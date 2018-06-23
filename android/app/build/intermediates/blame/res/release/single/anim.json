@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/anim/ucrop_loader_circle_scale.xml"
+    }
+]

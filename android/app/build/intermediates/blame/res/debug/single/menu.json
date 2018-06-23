@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/menu/ucrop_menu_activity.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/menu/ucrop_menu_activity.xml"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/res/menu/ucrop_menu_activity.xml"
+    }
+]

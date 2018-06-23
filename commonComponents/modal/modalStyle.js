@@ -1,0 +1,150 @@
+import {
+  StyleSheet,Dimensions
+} from 'react-native';
+
+export   const styles = StyleSheet.create({
+  wrapper: {
+  paddingTop: 50,
+  flex: 1
+},
+btn:{
+  backgroundColor:"#116cd6",
+  marginLeft:15,
+  marginRight:15,
+  borderRadius:3,
+  width:Dimensions.get('window').width-30,
+  alignItems:"center",
+  justifyContent:"center",
+  marginTop:20,
+  height:40,
+},
+firstEnterView:{
+  backgroundColor:"rgba(0,0,0,0.6)",
+  flex:1,
+  alignItems:"center",
+  justifyContent:"center"
+},
+centerView:{
+  backgroundColor:"#fff",
+  marginLeft:30,
+  marginRight:30,
+  borderRadius:5,
+  width:Dimensions.get('window').width-60,
+  alignItems:"center",
+  justifyContent:"center",
+  overflow:"hidden"
+},
+centerView1:{
+  backgroundColor:"rgba(0,0,0,0)",
+  marginLeft:0,
+  marginRight:0,
+  flex:1,
+  width:Dimensions.get('window').width,
+},
+centerView2:{
+  backgroundColor:"rgba(0,0,0,1)",
+  marginLeft:50,
+  marginRight:50,
+  height:40,
+  borderRadius:20,
+},
+paddingView:{
+  paddingTop:40,
+  paddingBottom:40,
+},
+paddingView1:{
+  paddingTop:40,
+},
+paddingView2:{
+  paddingTop:10,
+  paddingBottom:40,
+},
+specailText:{
+  color:"#116cd6"
+},
+btnTouch:{
+  width:Dimensions.get('window').width-60,
+  height:40,
+  alignItems:"center",
+  justifyContent:"center",
+  borderTopWidth:1,
+  borderColor:"#3a8ff3",
+  backgroundColor:"#3a8ff3"
+},
+btnTouch1:{
+  width:(Dimensions.get('window').width-60)/2,
+  height:40,
+  alignItems:"center",
+  justifyContent:"center",
+  borderTopWidth:1,
+  borderColor:"#eaeaea",
+  backgroundColor:"#f4f4f4"
+},
+btnTouch2:{
+  width:(Dimensions.get('window').width-60)/2,
+  height:40,
+  alignItems:"center",
+  justifyContent:"center",
+  borderTopWidth:1,
+  borderColor:"#3a8ff3",
+  backgroundColor:"#3a8ff3"
+},
+doubleBtn:{
+  flexDirection:"row",
+  borderTopWidth:1,
+  borderColor:"#eee",
+},
+doubleBtnTouch:{
+  height:40,
+  alignItems:"center",
+  justifyContent:"center",
+  flex:1
+},
+borderLine:{
+  borderLeftWidth:1,
+  borderColor:"#eee"
+},
+Fullbg:{
+  backgroundColor:"transparent",
+  alignItems:"center",
+  justifyContent:"center",
+  flex:1,
+},
+centerBg:{
+  backgroundColor:"rgba(0,0,0,0.7)",
+  paddingTop:20,
+  paddingBottom:20,
+  width:Dimensions.get('window').width-90,
+  borderRadius:3,
+  alignItems:"center"
+},
+centerBtnView:{
+  flexDirection:"row",
+},
+btnTouchTwo:{
+  flex:1,
+  borderLeftWidth:1,
+  borderRightWidth:1,
+  borderColor:"#3a8ff3",
+},
+maskMainTxt:{
+  marginLeft:30,
+  marginRight:30,
+  marginTop:50,
+  marginBottom:50,
+},
+lineHeight20:{
+  lineHeight:20,
+},
+btnTouchCancel:{
+  width:Dimensions.get('window').width-90,
+  height:40,
+  alignItems:"center",
+  justifyContent:"center",
+  borderTopWidth:1,
+  borderColor:"#eaeaea",
+  backgroundColor:"#f4f4f4"
+}
+
+
+  });

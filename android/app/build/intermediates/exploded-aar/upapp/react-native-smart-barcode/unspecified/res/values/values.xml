@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroud">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="result_text">#ff000000</color>
+    <color name="title_tv_color">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff4EEE94</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_mask">#cb000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <string name="app_name">QRCode_Zxing</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+#Sat Jun 23 11:12:33 CST 2018
+base.0=/Users/youke/Documents/up-newapp/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/youke/Documents/up-newapp/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

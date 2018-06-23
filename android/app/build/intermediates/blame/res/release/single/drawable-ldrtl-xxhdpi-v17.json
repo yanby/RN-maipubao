@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Desktop/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Desktop/卖铺宝/UP2.3.2/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Desktop/git/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Desktop/new/git 上午9.44.09/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/upapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Desktop/upapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Documents/up-newapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/youke/Desktop/卖铺宝/up2.3.4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]
